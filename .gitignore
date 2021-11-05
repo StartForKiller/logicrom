@@ -1,0 +1,4 @@
+*.rom
+*.lsx
+.vscode/
+package-lock.json
