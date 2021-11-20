@@ -2,8 +2,8 @@
 
 This is a tool for creating rom scripts
 
-You only need node.js and using
-`npm install node.js`
+You only need node.js, and using
+`npm install` you will install the requisites
 
 and for using with LogicWorld you need to add a component similar to this for an 256 Bytes 8 bit address rom:
 
